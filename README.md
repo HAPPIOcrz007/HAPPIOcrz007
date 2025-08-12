@@ -5,7 +5,7 @@
 ## About Me
 
 - B.Tech student at MIT-WPU Pune, Electrical & Computer Engineering  
-- Started CS50 on July 12; completed Weeks 1-4 (just `recover.c` left)  
+- Started CS50 on July 12; completed Weeks 1-4 (just `recover.c` left) [progress](https://submit.cs50.io/users/HAPPIOcrz007)
 - Languages: C, Python, Java, JavaScript, HTML, CSS; currently learning SQL  
 - Linux user for several years — comfortable with command line and scripting  
 - Passionate about fintech, money management systems, and practical projects  
