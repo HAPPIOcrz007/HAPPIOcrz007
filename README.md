@@ -1,5 +1,14 @@
 # Harshvardhan Rathod (HAPPIOcrz007)
 
+<div align="center">
+</div>
+<p align="center">
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=HAPPIOcrz007&show_icons=true&theme=monokai&include_all_commits=true" />
+  <img height="280" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=HAPPIOcrz007&hide=Jupyter%20Notebook&theme=monokai&show_icons=true" />
+</p>
+<div align="center">
+</div>
+
 > Coding my way through fintech and deep tech — one project at a time.
 
 ## About Me
