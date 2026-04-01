@@ -1,8 +1,8 @@
 # Harshvardhan Rathod (HAPPIOcrz007)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HAPPIOcrz007&show_icons=true&theme=monokai&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAPPIOcrz007&hide=Jupyter%20Notebook&theme=monokai&layout=compact" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HAPPIOcrz007&theme=monokai" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HAPPIOcrz007&theme=monokai" />
 </div>
 
 > Coding my way through fintech and deep tech — one project at a time.
