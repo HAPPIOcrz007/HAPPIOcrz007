@@ -1,9 +1,8 @@
 # Harshvardhan Rathod (HAPPIOcrz007)
 
-<div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HAPPIOcrz007&theme=monokai" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HAPPIOcrz007&theme=monokai" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAPPIOcrz007&theme=graywhite)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HAPPIOcrz007&border_radius=5.2)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAPPIOcrz007&theme=graywhite)
 
 > Coding my way through fintech and deep tech — one project at a time.
 
